@@ -4,7 +4,8 @@ import levels from '../data/levels.json';
 import Stage from './Stage';
 import sound from'./Sound';
 
-const BLUE_SKY_COLOR = 0x64b0ff;
+//const BLUE_SKY_COLOR = 0x64b0ff;
+const BLUE_SKY_COLOR = 0x64b8df;
 const PINK_SKY_COLOR = 0xfbb4d4;
 const SUCCESS_RATIO = 0.6;
 
